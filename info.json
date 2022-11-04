@@ -1,0 +1,14 @@
+{
+	"name": "surface_floors",
+	"version": "0.2.0",
+	"factorio_version": "1.1",
+	"title": "Surface floors",
+	"author": "ZwerOxotnik",
+	"contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117",
+	"homepage": "reddit.com/r/ZwerOxotnik/",
+	"description": "Switch beetwen surfaces using \"/floor (number)\" command.\nThis mod is designed for PvP, TvT and some PvE scenario.",
+	"dependencies": [
+		"? zk-lib >= 0.10.0",
+		"? gvv"
+	]
+}
